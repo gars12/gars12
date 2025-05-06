@@ -1,5 +1,5 @@
 
-Hello All! I'm Tegar Firmansyah 👋
+# Hello All! I'm Tegar Firmansyah 👋
 
 ![banner](img/github-header-image1.png)
 
